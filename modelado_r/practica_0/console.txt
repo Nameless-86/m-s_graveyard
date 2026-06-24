@@ -1,0 +1,1 @@
+cd /home/nameless/Desktop/Code/mod && R --no-save
